@@ -267,4 +267,4 @@ Feature map for the second convolutional layer:
 
 ![alt text][image22]
 
-The first feature map suggests 
+The first feature map suggests capturing the parts of the sign outline. The second layer capture specific area but it's not human-readable.
